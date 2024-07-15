@@ -46,7 +46,7 @@ p{
    display: inline-block;
    padding:0%;
    user-select: none;
-   cursor: default ; 
+   cursor: pointer ; 
    color: inherit; 
    text-decoration: none; 
    background-clip: padding-box;
@@ -54,7 +54,7 @@ p{
 
  .link.selected {
   user-select: none;
-  cursor: default ; 
+  cursor: pointer ; 
   color: #7953B3; 
   text-decoration: none; 
   /* background-color: rgb(245, 241, 238); */
