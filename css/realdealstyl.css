@@ -214,6 +214,17 @@ img.present1{
   /* gap: 20px; */
 }
 
+#past-content-container {
+   display: flex;
+   flex-direction: column;
+   color: #444444;
+   /* width: 25%; */
+   padding: 1.125rem;
+   margin-left: 2rem;
+/*    margin-bottom: 5px; */
+   text-align: left;
+   /* display: flex; */  
+}
 .box{
   flex: 1 0 23%; 
   margin: 0.625rem;
