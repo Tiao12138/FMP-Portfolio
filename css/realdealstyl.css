@@ -120,6 +120,10 @@ img.quetta3{
   object-fit: contain;
 }
 
+.note{
+  font-size: 0.875rem;
+}
+
 .intro{
    padding-left: 0px;
    padding-right: 40px;
